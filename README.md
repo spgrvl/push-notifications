@@ -6,6 +6,7 @@ You can integrate any of them in your programs to get any wanted output to your 
 ## Supported applications
 
 * Pushover
+* Telegram
 
 ## How to use
 
